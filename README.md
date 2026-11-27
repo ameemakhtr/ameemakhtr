@@ -20,7 +20,7 @@ Hands-on Blue Team SOC labs, static malware triage (`Ghidra` & `IDA`), ISO/IEC 2
 | Repository | Area | Summary |
 | :--- | :--- | :--- |
 | [**SOC-Wazuh-pfSense-IR-Lab**](https://github.com/ameemakhtr/SOC-Wazuh-pfSense-IR-Lab) | SOC & IR | Wazuh FIM/Syslog labs, pfSense containment playbooks, WannaCry VM behavioral analysis, and supporting XML validation |
-| [**Comparative-Malware-Analysis**](https://github.com/ameemakhtr/Comparative-Malware-Analysis) | Malware & RE | Static PE32 case studies (59-page PMAT report, Ghidra archive, VARE IDA/FLOSS labs) with a supporting PE triage helper |
+| [**Comparative-Malware-Analysis**](https://github.com/ameemakhtr/Comparative-Malware-Analysis) | Malware & RE | Static PE32 case studies (59-page PMAT report, Ghidra archive, IDA/FLOSS labs) with a supporting PE triage helper |
 | [**ISO-27001-2022-ISMS-Audit-Toolkit**](https://github.com/ameemakhtr/ISO-27001-2022-ISMS-Audit-Toolkit) | GRC | Sanitized 93-control Annex A template, CIA Asset & Risk Register Excel workbook, and supporting verification scripts |
 | [**Enterprise-Network-ACL-SSH-Automation**](https://github.com/ameemakhtr/Enterprise-Network-ACL-SSH-Automation) | Network Security | Huawei eNSP warehouse topology, hardened Data Center ACL 3000 & SSHv2 configs, and supporting audit helpers |
 | [**OSINT-Domain-Recon-Pipeline**](https://github.com/ameemakhtr/OSINT-Domain-Recon-Pipeline) | OSINT | Passive-first 9-tool OSINT domain recon workflow with reproducible Bash/Python verification scripts |
